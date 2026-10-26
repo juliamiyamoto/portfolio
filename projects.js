@@ -1,7 +1,4 @@
 /*
-  YOUR PROJECTS LIVE HERE.
-  To add a project, copy one { ... } block, paste it into the list, and change the text.
-
   title     – project name (shows big, in caps)
   date      – when you made it, e.g. "April 2026"; shown next to the category above the title
   summary   – one or two sentences on what you made and why
@@ -19,7 +16,7 @@
 */
 window.PROJECTS = [
   {
-    title: "Pantry",
+    title: "Al Dente",
     date: "Expected April 2027",
     inProgress: true,
     summary:
